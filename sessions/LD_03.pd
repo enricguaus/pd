@@ -1,0 +1,27 @@
+#N canvas 20 153 810 449 12;
+#X obj 153 242 dac~;
+#X obj 153 27 noise~;
+#X obj 153 196 *~;
+#X obj 171 57 loadbang;
+#X floatatom 170 165 5 0 0 0 - - -;
+#X text 216 85 0..100;
+#X msg 171 83 10;
+#X obj 171 138 / 127;
+#X obj 174 113 hsl 128 15 0 127 0 0 empty empty empty -2 -8 0 10 -262144
+-1 -1 1000 1;
+#X obj 214 231 vu 15 120 empty empty -1 -8 0 10 -66577 -1 1 0;
+#X obj 213 201 expr 20*log($f1/0.707);
+#X text 313 111 1 Posem un Slider;
+#X text 384 203 Cal passar de 0..1 a dBs;
+#X text 280 304 2 Posem un vu-metre;
+#X obj 479 62 LD_03b;
+#X connect 1 0 2 0;
+#X connect 2 0 0 1;
+#X connect 2 0 0 0;
+#X connect 3 0 6 0;
+#X connect 4 0 2 1;
+#X connect 4 0 10 0;
+#X connect 6 0 8 0;
+#X connect 7 0 4 0;
+#X connect 8 0 7 0;
+#X connect 10 0 9 0;
