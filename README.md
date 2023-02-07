@@ -1,2 +1,3 @@
-# pd
-RAW examples for programming courses based on PureData at Escola de Noves Tecnologies Interactives (ENTI)
+# Lutheria Digital
+Máster en Músicay Sonido para Experiencias del Entretenimiento
+Escola de Noves Tecnologies Interactives (ENTI)
