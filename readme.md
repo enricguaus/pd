@@ -5,4 +5,7 @@ Escola de Noves Tecnologies Interactives (<a href="https://enti.cat/" target="_b
 
 <h2>Calendar</h2>
 
-Próximamente
+| Date | ID | Session |
+|---|---|---|
+| 23/02/2023 | (Session01) | Introduction to Pure Data|
+|---|---|---
