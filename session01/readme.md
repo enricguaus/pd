@@ -1,5 +1,7 @@
 # Session01
 
+Introduction to Pure Data
+
 ## session01a.pd 
 
 * DSP, Preferences, Edit mode, Inlets and Outlets
