@@ -7,4 +7,4 @@
 * Audio bus, Control bud
 * Simple maths
 
-/session01/session01a.png
+!(session01a.png)
