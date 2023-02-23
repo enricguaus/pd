@@ -8,3 +8,10 @@
 * Simple maths
 
 ![session01a.png](./session01a.png)
+
+## session01b.pd
+
+* Adding a slider
+* Adding a vumeter
+
+![session01b.png](session01b.png)
