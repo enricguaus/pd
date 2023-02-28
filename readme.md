@@ -8,3 +8,4 @@ Escola de Noves Tecnologies Interactives (<a href="https://enti.cat/" target="_b
 | Date | ID | Session |
 |---|---|---|
 | 23/02/2023 | [session01](session01) | Introduction to Pure Data|
+| 28/02/2023 | [session02](session02) | First sounds and subpatches|
