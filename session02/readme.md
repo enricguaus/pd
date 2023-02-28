@@ -1,4 +1,4 @@
-# Session01
+# Session02
 
 First sounds and subpatches
 
