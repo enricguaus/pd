@@ -19,5 +19,6 @@ Escola de Noves Tecnologies Interactives (<a href="https://enti.cat/" target="_b
 
 ## Books
 
+* [Bang | Pure Data](https://puredata.info/groups/pd-graz/label/book)
 * [Designing Sound](https://mitpress.mit.edu/9780262014410/designing-sound/), by Andy Farnell
 * [The Theory and Technique of Electronic Music](http://msp.ucsd.edu/techniques.htm), by [Miller Puckette](http://msp.ucsd.edu/)
