@@ -15,7 +15,7 @@ Escola de Noves Tecnologies Interactives (<a href="https://enti.cat/" target="_b
 
 * [Pure Data](https://puredata.info/), by [Miller Puckette](http://msp.ucsd.edu/)
 
-## Tutorials 
+## Tutorials 
 
 * [Programming Electronic Music in Pd](http://www.pd-tutorial.com/english/index.html), by Johannes Kreidler
 * [Floss Manuals - Pure Data](http://archive.flossmanuals.net/pure-data/)
