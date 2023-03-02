@@ -13,6 +13,11 @@ Escola de Noves Tecnologies Interactives (<a href="https://enti.cat/" target="_b
 
 ## Links
 
-* [Pure Data](https://puredata.info/)
+* [Pure Data](https://puredata.info/), by [Miller Puckette](http://msp.ucsd.edu/)
 * [Programming Electronic Music in Pd](http://www.pd-tutorial.com/english/index.html), by Johannes Kreidler
 * [Floss Manuals - Pure Data](http://archive.flossmanuals.net/pure-data/)
+
+## Books
+
+* [Designing Sound](https://mitpress.mit.edu/9780262014410/designing-sound/), by Andy Farnell
+* [The Theory and Technique of Electronic Music](http://msp.ucsd.edu/techniques.htm), by [Miller Puckette](http://msp.ucsd.edu/)
