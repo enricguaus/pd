@@ -1,4 +1,4 @@
-# Session03
+#Session03
 
 Playing sound files
 
@@ -24,7 +24,7 @@ Playing sound files
 ## session03d.pd 
 
 * Play from an Array
-* env~
+* Envelope computation: env~
 
 ![session03d.png](./session03d.png)
 
