@@ -4,7 +4,7 @@ Playing sound files
 
 ## session03a.pd 
 
-* Open and read soundfiles
+* Open and read sound files
 
 ![session03a.png](./session03a.png)
 
