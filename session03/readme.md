@@ -1,6 +1,4 @@
-# Session03
-
-Playing sound files
+# Playing sound files
 
 ## session03a.pd 
 
