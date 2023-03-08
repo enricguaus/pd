@@ -1,6 +1,4 @@
-# Session05
-
-OSC
+# OSC
 
 ## session05a.pd 
 
