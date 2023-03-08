@@ -1,6 +1,4 @@
-# Session01
-
-Introduction to Pure Data
+# Introduction to Pure Data
 
 ## session01a.pd 
 
