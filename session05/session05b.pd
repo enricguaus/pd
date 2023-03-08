@@ -1,4 +1,4 @@
-#N canvas 227 337 686 410 12;
+#N canvas 432 179 686 410 12;
 #X obj 208 93 oscparse;
 #X obj 208 67 netreceive -u -b;
 #X obj 367 117 print parse-output;
@@ -28,7 +28,7 @@
 #X obj 208 144 route light orientation audio;
 #X obj 274 168 route alpha beta gamma;
 #X obj 455 221 vsl 35 162 0 1 0 0 empty empty empty 0 -9 0 12 #c7c6ff #000000 #000000 0 1;
-#X obj 497 221 vsl 35 162 20 2000 1 0 empty empty empty 0 -9 0 12 #c7c6ff #000000 #000000 0 1;
+#X obj 497 221 vsl 35 162 20 2000 1 0 empty empty empty 0 -9 0 12 #e3c6ff #000000 #000000 0 1;
 #X text 36 130 App: OSC Hook;
 #X connect 0 0 4 0;
 #X connect 0 0 2 0;
