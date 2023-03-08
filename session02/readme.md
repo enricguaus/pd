@@ -1,6 +1,4 @@
-# Session02
-
-First sounds and subpatches
+# First sounds and subpatches
 
 ## session02a.pd 
 
