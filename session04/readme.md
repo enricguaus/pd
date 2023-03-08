@@ -1,6 +1,4 @@
-# Session04
-
-Helpers
+# Helpers
 
 ## session04a.pd 
 
