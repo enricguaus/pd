@@ -30,10 +30,10 @@
 
 ## Apps
 
-* OSCHook v2 (outdated?)
-* OSC Controller [Android](https://play.google.com/store/apps/details?id=com.ffsmultimedia.osccontroller&hl=es&gl=US)
-* Syntien [OSX](https://apps.apple.com/cr/app/syntien/id1203153534)
+* OSCHook v2 (outdated?).
+* OSC Controller ([Android](https://play.google.com/store/apps/details?id=com.ffsmultimedia.osccontroller&hl=es&gl=US)).
+* Syntien ([OSX](https://apps.apple.com/cr/app/syntien/id1203153534)).
 
 ## Services
 
-* [Artsmesh](https://www.artsmesh.com/)
+* Artsmesh ([web](https://www.artsmesh.com/)).
