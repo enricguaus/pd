@@ -2,8 +2,8 @@
 
 ## session07a.pd 
 
-* Audio Description
-* Amplitude, Pitch, Timbre, Rhythm
+* Audio Description.
+* Amplitude, Pitch, Timbre, Rhythm.
 
 ![session07a.png](./session07a.png)
 
