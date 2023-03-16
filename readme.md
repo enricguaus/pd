@@ -13,6 +13,7 @@ Escola de Noves Tecnologies Interactives (<a href="https://enti.cat/" target="_b
 | 07/03/2023 | [session04](session04) | Helpers|
 | 09/03/2023 | [session05](session05) | OSC|
 | 14/03/2023 | [session06](session06) | MIDI|
+| 16/03/2023 | [session07](session07) | Machine Learning|
 
 ## Links
 
