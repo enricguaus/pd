@@ -19,6 +19,6 @@
 ## Links
 
 * Pure Data Libraries
-** timbreID ([web](https://github.com/wbrent/timbreIDLib)).
-** ml.lib ([web](https://github.com/irllabs/ml-lib)).
+ * timbreID ([web](https://github.com/wbrent/timbreIDLib)).
+ * ml.lib ([web](https://github.com/irllabs/ml-lib)).
 * Wekinator ([web](http://www.wekinator.org/)).
