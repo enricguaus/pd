@@ -18,15 +18,22 @@ Escola de Noves Tecnologies Interactives (<a href="https://enti.cat/" target="_b
 
 ## Links
 
-* [Pure Data](https://puredata.info/), by [Miller Puckette](http://msp.ucsd.edu/)
+* [Pure Data](https://puredata.info/), by [Miller Puckette](http://msp.ucsd.edu/).
 
 ## Tutorials 
 
-* [Programming Electronic Music in Pd](http://www.pd-tutorial.com/english/index.html), by Johannes Kreidler
-* [Floss Manuals - Pure Data](http://archive.flossmanuals.net/pure-data/)
+* [Programming Electronic Music in Pd](http://www.pd-tutorial.com/english/index.html), by Johannes Kreidler.
+* [Floss Manuals - Pure Data](http://archive.flossmanuals.net/pure-data/).
 
 ## Books
 
-* [Bang | Pure Data](https://puredata.info/groups/pd-graz/label/book)
-* [Designing Sound](https://mitpress.mit.edu/9780262014410/designing-sound/), by Andy Farnell
-* [The Theory and Technique of Electronic Music](http://msp.ucsd.edu/techniques.htm), by [Miller Puckette](http://msp.ucsd.edu/)
+* [Bang | Pure Data](https://puredata.info/groups/pd-graz/label/book).
+* [Designing Sound](https://mitpress.mit.edu/9780262014410/designing-sound/), by Andy Farnell.
+* [The Theory and Technique of Electronic Music](http://msp.ucsd.edu/techniques.htm), by [Miller Puckette](http://msp.ucsd.edu/).
+
+## Libraries
+
+* [Zexy](https://git.iem.at/pd/zexy): The swiss army knife for Pure Data.
+* [Cyclone](https://github.com/porres/pd-cyclone): A set of Pure Data objects cloned from Max/MSP.
+* [timbreID](https://github.com/wbrent/timbreIDLib): An audio analysis library for Pure Data.
+* [ml.lib](https://github.com/irllabs/ml-lib): A library of machine learning externals for Max and Pure Data.
