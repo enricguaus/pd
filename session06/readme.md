@@ -22,6 +22,13 @@
 
 ![session06c.png](./session06c.png)
 
+## session06d.pd
+
+* Midi (out)
+* Pitchbend
+
+![session06d.png](./session06d.png)
+
 ## Services
 
 * Audiomovers ([web](https://audiomovers.com/wp/)).
