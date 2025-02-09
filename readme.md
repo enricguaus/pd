@@ -7,14 +7,14 @@ Escola de Noves Tecnologies Interactives (<a href="https://enti.cat/" target="_b
 
 | Date | ID | Session |
 |---|---|---|
-| 23/02/2023 | [session01](session01) | Introduction to Pure Data|
-| 28/02/2023 | [session02](session02) | First sounds and subpatches|
-| 02/03/2023 | [session03](session03) | Playing sound files|
-| 07/03/2023 | [session04](session04) | Helpers|
-| 09/03/2023 | [session05](session05) | OSC|
-| 14/03/2023 | [session06](session06) | MIDI|
-| 16/03/2023 | [session07](session07) | Machine Learning|
-| 21/03/2023 | [session08](session08) | Results|
+| 10/02/2025 | [session01](session01) | Introduction to Pure Data|
+| 17/02/2025 | [session02](session02) | First sounds and subpatches|
+| 24/02/2025 | [session03](session03) | Playing sound files|
+| 03/03/2025 | [session04](session04) | Helpers|
+| 10/03/2025 | [session05](session05) | OSC|
+| 17/03/2025 | [session06](session06) | MIDI|
+| 24/03/2025 | [session07](session07) | Machine Learning|
+| 31/03/2025 | [session08](session08) | Results|
 
 ## Links
 
