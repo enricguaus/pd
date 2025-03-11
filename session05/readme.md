@@ -10,8 +10,7 @@
 ## session05b.pd 
 
 * OSC
-* Line
-* App: OSC Hook
+* App: SoundCool
 
 ![session05b.png](./session05b.png)
 
@@ -19,6 +18,7 @@
 
 * OSC
 * Send and Receive
+* Line
 
 ![session05c.png](./session05c.png)
 
@@ -30,9 +30,10 @@
 
 ## Apps
 
-* OSCHook v2 (outdated?).
 * OSC Controller ([Android](https://play.google.com/store/apps/details?id=com.ffsmultimedia.osccontroller&hl=es&gl=US)).
-* Syntien ([OSX](https://apps.apple.com/cr/app/syntien/id1203153534)).
+* SoundCool ([Android](https://play.google.com/store/apps/details?id=org.soundcool.upv.oscapp&hl=ca), [OSX](https://apps.apple.com/us/app/soundcool-osc/id1195976787?l=es&ls=1)).
+* OSCHook v2 (outdated?).
+* Syntien (outdated?).
 
 ## Services
 
