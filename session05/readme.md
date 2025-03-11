@@ -14,6 +14,8 @@
 
 ![session05b.png](./session05b.png)
 
+(NOTE: [fudiformat] and [fudiparse] objects are added due to OSC path starts with a number, not a symbol.) 
+
 ## session05c.pd 
 
 * OSC
