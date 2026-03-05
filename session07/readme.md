@@ -7,7 +7,7 @@
 
 ![session07a.png](./session07a.png)
 
-## session08b.pd 
+## session07b.pd 
 
 * Subtractive synthesis
 * Pitch
