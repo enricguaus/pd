@@ -1,20 +1,20 @@
 # Machine Learning
 
-## session07a.pd 
+## session08a.pd 
 
 * Audio Description.
 * Amplitude, Pitch, Timbre, Rhythm.
 
-![session07a.png](./session07a.png)
+![session08a.png](./session08a.png)
 
-## session07b.pd 
+## session08b.pd 
 
 * Machine learning
 * Wekinator
 * OSC COmmunication
 
-![session07b1.png](./session07b1.png)
-![session07b2.png](./session07b2.png)
+![session08b1.png](./session08b1.png)
+![session08b2.png](./session08b2.png)
 
 ## Links
 
