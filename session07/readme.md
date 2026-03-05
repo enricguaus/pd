@@ -19,7 +19,10 @@
 
 * FM synthesis
 
+![session07c.png](./session07c.png)
+
 ## TODO
 
-* Add AM, Phase modulation, Wavetable and Granular synthesis. 
+* Add AM, Phase modulation, Wavetable and Granular synthesis.
+* Add bibliography
 
