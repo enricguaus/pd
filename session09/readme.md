@@ -1,7 +1,5 @@
 # Results
 
-Links to demos.
-
 | Year | Course | Link |
 |---|---|---|
 | 2024-2025 | Lutheria Digital (ENTI) | [Youtube ](https://youtube.com/playlist?list=PLKev7xK8J5Tmor1Hr4oLO3ou-3bW3Bu42&si=ygPBAACO84OKNqGz) playlist
