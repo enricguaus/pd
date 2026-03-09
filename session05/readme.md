@@ -33,9 +33,12 @@
 ## Apps
 
 * OSC Controller ([Android](https://play.google.com/store/apps/details?id=com.ffsmultimedia.osccontroller&hl=es&gl=US)).
-* SoundCool ([Android](https://play.google.com/store/apps/details?id=org.soundcool.upv.oscapp&hl=ca), [OSX](https://apps.apple.com/us/app/soundcool-osc/id1195976787?l=es&ls=1)).
+* SoundCool ([Android](https://play.google.com/store/apps/details?id=org.soundcool.upv.oscapp&hl=ca), [iOS](https://apps.apple.com/us/app/soundcool-osc/id1195976787?l=es&ls=1)).
 * OSCHook v2 (outdated?).
 * Syntien (outdated?).
+* Zig Sim ([Web](https://1-10.github.io/zigsim/), [iOS](https://apps.apple.com/jp/app/zig-sim/id1112909974)).
+* Sensors2OSC ([Android](https://sensors2.org/osc/)).
+
 
 ## Services
 
