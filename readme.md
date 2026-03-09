@@ -39,8 +39,7 @@ Escola de Noves Tecnologies Interactives (<a href="https://enti.cat/" target="_b
 * [timbreID](https://github.com/wbrent/timbreIDLib): An audio analysis library for Pure Data.
 * [ml.lib](https://github.com/irllabs/ml-lib): A library of machine learning externals for Max and Pure Data.
 
-
-## TODO
+## ToDo list
 
 * Update pic for session02c.
 * Update pics for session08: they make reference to session07.
