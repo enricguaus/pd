@@ -37,25 +37,13 @@
   * OSC Controller ([Android](https://play.google.com/store/apps/details?id=com.ffsmultimedia.osccontroller&hl=es&gl=US)).
   * SoundCool ([Android](https://play.google.com/store/apps/details?id=org.soundcool.upv.oscapp&hl=ca), [iOS](https://apps.apple.com/us/app/soundcool-osc/id1195976787?l=es&ls=1)).
 * Sensors
-  * OSCHook v2 (outdated?).
-  * Syntien (outdated?).
   * Zig Sim ([Web](https://1-10.github.io/zigsim/), [iOS](https://apps.apple.com/jp/app/zig-sim/id1112909974)).
   * Sensors2OSC ([Android](https://sensors2.org/osc/)).
-
-
-
-
-
-\item TouchOSC: \href{https://play.google.com/store/apps/details?id=net.hexler.touchosc_a}{Android} y \href{https://apps.apple.com/es/app/touchosc-mk1/id288120394}{iOS}; 5.99\euro.
-            \item OSC Controller: \href{https://play.google.com/store/apps/details?id=com.ffsmultimedia.osccontroller&hl=es_UY}{Android}; Gratuito.
-            \item SoundCool: \href{https://play.google.com/store/search?q=soundcool&c=apps}{Android} y \href{https://apps.apple.com/es/app/soundcool-osc/id1195976787}{iOS}; Gratuito con registro.
-
-
-
-
-
-
+  * OSCHook v2 (outdated?).
+  * Syntien (outdated?).
 
 ## Services
 
+* Zero Tier ([web](https://www.zerotier.com/)).
 * Artsmesh ([web](https://www.artsmesh.com/)).
+* Ossia score ([web](https://ossia.io/)).
