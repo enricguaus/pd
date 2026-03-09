@@ -31,4 +31,6 @@
 
 ## Services
 
-* Audiomovers ([web](https://audiomovers.com/wp/)).
+* Audiomovers ([web](https://audiomovers.com/)).
+* Sonobus ([web](https://www.sonobus.net/)).
+* Jacktrip ([web](https://www.jacktrip.com/)).
