@@ -10,12 +10,12 @@ Escola de Noves Tecnologies Interactives (<a href="https://enti.cat/" target="_b
 | 09/02/2026 | [session01](session01) | Introduction to Pure Data|
 | 09/02/2026 | [session02](session02) | First sounds and subpatches|
 | 16/02/2026 | [session03](session03) | Playing sound files|
-| 16/02/2026 | [session04](session04) | Helpers|
-| 23/02/2026 | [session05](session05) | OSC|
-| 02/03/2026 | [session06](session06) | MIDI|
+| 23/02/2026 | [session04](session04) | Helpers|
+| 02/02/2026 | [session05](session05) | OSC|
+| 09/03/2026 | [session06](session06) | MIDI|
 | 09/03/2026 | [session07](session07) | Synthesis|
-| 23/03/2026 | [session08](session08) | Machine Learning|
-| 25/03/2026 | [session09](session09) | Results|
+| 16/03/2026 | [session08](session08) | Machine Learning|
+| 23/03/2026 | [session09](session09) | Results|
 
 ## Links
 
@@ -43,5 +43,5 @@ Escola de Noves Tecnologies Interactives (<a href="https://enti.cat/" target="_b
 
 * Update pic for session02c
 * Update pics for session08: they make reference to session07.
-*Update readme.md for session 08.
+* Update readme.md for session 08.
 * Add AM, Phase modulation, Wavetable and Granular synthesis. 
