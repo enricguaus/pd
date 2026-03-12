@@ -15,7 +15,7 @@ Escola de Noves Tecnologies Interactives (<a href="https://enti.cat/" target="_b
 | 09/03/2026 | [session06](session06) | MIDI|
 | 09/03/2026 | [session07](session07) | Synthesis|
 | 16/03/2026 | [session08](session08) | Machine Learning|
-| 23/03/2026 | [session09](session09) | Machine Learning|
+| 23/03/2026 | [session09](session09) | Neural Synthesis|
 | 13/04/2026 | [session10](session10) | Results|
 
 ## Links
