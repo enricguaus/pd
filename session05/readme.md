@@ -24,6 +24,13 @@
 
 ![session05c.png](./session05c.png)
 
+## session05d.pd 
+
+* OSC
+* App: Sensor2OSC (Android)
+
+![session05d.png](./session05d.png)
+
 ## Links
 
 * OpenSoundControl.org ([web](https://ccrma.stanford.edu/groups/osc/index.html)).
