@@ -46,4 +46,6 @@ Escola de Noves Tecnologies Interactives (<a href="https://enti.cat/" target="_b
 * Update pic for session02c.
 * Update pics for session08: they make reference to session07.
 * Update readme.md for session 08.
-* Add AM, Phase modulation, Wavetable and Granular synthesis. 
+* Add AM, Phase modulation, Wavetable and Granular synthesis.
+* Include FluCoMa
+* Include MobMuPlat
