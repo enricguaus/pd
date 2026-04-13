@@ -32,13 +32,13 @@
 
 ## session02e.pd 
 
-* Metronome
+* Metronome (as a trigger)
 
 ![session02e.png](./session02e.png)
 
 ## session02f.pd 
 
-* Metronome
+* Metronome (for BPM)
 * Counter
 
 ![session02f.png](./session02f.png)
